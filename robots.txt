@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://aliye-afk.github.io/geo/sitemap.xml
+Sitemap: https://aliye-afk.github.io/geo/sitemap-index.xml
